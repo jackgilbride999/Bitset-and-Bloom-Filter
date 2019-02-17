@@ -1,7 +1,5 @@
 /* bloom.h header file for a simple Bloom filter for approximate
    storage of sets of strings
-
-   Author: David Gregg
 */
 
 #ifndef BLOOM_H
