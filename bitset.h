@@ -1,6 +1,5 @@
 /* bitset.h
    header file for a simple bit vector implementation 
-   Author: David Gregg
 */
 
 #ifndef BITSET_H
